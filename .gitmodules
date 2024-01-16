@@ -1,3 +1,6 @@
 [submodule "T.T.M.A.T.G.R.A.L.R.W.R.P"]
 	path = T.T.M.A.T.G.R.A.L.R.W.R.P
 	url = https://github.com/SYSTEMS-OPERATOR/T.T.M.A.T.G.R.A.L.R.W.R.P/
+[submodule "Poly"]
+	path = Poly
+	url = https://github.com/Tonic-AI/Poly
