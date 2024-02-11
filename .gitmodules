@@ -4,3 +4,6 @@
 [submodule "Poly"]
 	path = Poly
 	url = https://github.com/Tonic-AI/Poly
+[submodule "lang_agent"]
+	path = lang_agent
+	url = https://github.com/meta-introspector/lang_agent.git
